@@ -1,0 +1,24 @@
+{
+  "name": "@gapless/rosetta",
+  "version": "0.0.1",
+  "description": "Rosetta is an i18n module to be used with multiple cultureCodes. It works with namespaces, grouping phrases with the same context. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gapless-tech/rosetta.git"
+  },
+  "keywords": [
+    "i18n",
+    "internationalization",
+    "javascript"
+  ],
+  "author": "Gapless",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gapless-tech/rosetta/issues"
+  },
+  "homepage": "https://github.com/gapless-tech/rosetta#readme"
+}

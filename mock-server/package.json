@@ -1,0 +1,11 @@
+{
+  "name": "mock-server",
+  "version": "0.0.1",
+  "description": "Mock server to simulate rosetta's integration with the back end.",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "json-server": "^0.14.0"
+  }
+}

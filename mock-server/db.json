@@ -1,0 +1,29 @@
+{
+    "names": {
+        "en-US": {
+          "BREAD.ROOT": "bread",
+          "BREAD.CORN": "corn bread",
+          "BREAD.CROISSANT": "croissant",
+          "BUTTER": "butter",
+          "TOASTER": "toaster"
+        },
+        "pt-PT": {
+          "BREAD.ROOT": "pão",
+          "BREAD.CORN": "broa",
+          "BREAD.CROISSANT": "croissant",
+          "BUTTER": "manteiga",
+          "TOASTER": "torradeira"
+        }
+    },
+    "cultures": [
+        "pt-PT",
+        "pt-BR",
+        "en-GB",
+        "en-US",
+        "en-CA",
+        "es-ES",
+        "es-MX",
+        "fr-FR",
+        "fr-CA"
+    ]
+}

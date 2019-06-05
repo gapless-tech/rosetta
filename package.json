@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/gapless-tech/rosetta#readme",
   "devDependencies": {
-    "eslint": "^5.9.0",
+    "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.14.0",
     "onchange": "^5.1.3",
